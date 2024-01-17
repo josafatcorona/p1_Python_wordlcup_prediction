@@ -1,0 +1,866 @@
+,home,score,away,year
+0,France ,4–1, Mexico,1930
+1,Argentina ,1–0, France,1930
+2,Chile ,3–0, Mexico,1930
+3,Chile ,1–0, France,1930
+4,Argentina ,6–3, Mexico,1930
+5,Argentina ,3–1, Chile,1930
+6,Yugoslavia ,2–1, Brazil,1930
+7,Yugoslavia ,4–0, Bolivia,1930
+8,Brazil ,4–0, Bolivia,1930
+9,Romania ,3–1, Peru,1930
+10,Uruguay ,1–0, Peru,1930
+11,Uruguay ,4–0, Romania,1930
+12,United States ,3–0, Belgium,1930
+13,United States ,3–0, Paraguay,1930
+14,Paraguay ,1–0, Belgium,1930
+15,Argentina ,6–1, United States,1930
+16,Uruguay ,6–1, Yugoslavia,1930
+17,Uruguay ,4–2, Argentina,1930
+18,Spain ,3–1, Brazil,1934
+19,Hungary ,4–2, Egypt,1934
+20,Switzerland ,3–2, Netherlands,1934
+21,Italy ,7–1, United States,1934
+22,Czechoslovakia ,2–1, Romania,1934
+23,Sweden ,3–2, Argentina,1934
+24,Austria ,3–2 (a.e.t.), France,1934
+25,Germany ,5–2, Belgium,1934
+26,Austria ,2–1, Hungary,1934
+27,Italy ,1–1 (a.e.t.), Spain,1934
+28,Germany ,2–1, Sweden,1934
+29,Czechoslovakia ,3–2,  Switzerland,1934
+30,Italy ,1–0, Spain,1934
+31,Italy ,1–0, Austria,1934
+32,Czechoslovakia ,3–1, Germany,1934
+33,Germany ,3–2, Austria,1934
+34,Italy ,2–1 (a.e.t.), Czechoslovakia,1934
+35,Switzerland ,1–1 (a.e.t.), Germany,1938
+36,Hungary ,6–0, Dutch East Indies,1938
+37,Sweden ,3–0Awarded[a], Austria,1938
+38,Cuba ,3–3 (a.e.t.), Romania,1938
+39,France ,3–1, Belgium,1938
+40,Italy ,2–1 (a.e.t.), Norway,1938
+41,Brazil ,6–5 (a.e.t.), Poland,1938
+42,Czechoslovakia ,3–0 (a.e.t.), Netherlands,1938
+43,Switzerland ,4–2, Germany,1938
+44,Cuba ,2–1, Romania,1938
+45,Hungary ,2–0,  Switzerland,1938
+46,Sweden ,8–0, Cuba,1938
+47,Italy ,3–1, France,1938
+48,Brazil ,1–1 (a.e.t.), Czechoslovakia,1938
+49,Brazil ,2–1, Czechoslovakia,1938
+50,Hungary ,5–1, Sweden,1938
+51,Italy ,2–1, Brazil,1938
+52,Brazil ,4–2, Sweden,1938
+53,Italy ,4–2, Hungary,1938
+54,Brazil ,4–0, Mexico,1950
+55,Yugoslavia ,3–0,  Switzerland,1950
+56,Brazil ,2–2,  Switzerland,1950
+57,Yugoslavia ,4–1, Mexico,1950
+58,Brazil ,2–0, Yugoslavia,1950
+59,Switzerland ,2–1, Mexico,1950
+60,England ,2–0, Chile,1950
+61,Spain ,3–1, United States,1950
+62,Spain ,2–0, Chile,1950
+63,United States ,1–0, England,1950
+64,Spain ,1–0, England,1950
+65,Chile ,5–2, United States,1950
+66,Sweden ,3–2, Italy,1950
+67,Sweden ,2–2, Paraguay,1950
+68,Italy ,2–0, Paraguay,1950
+69,Uruguay ,8–0, Bolivia,1950
+70,Uruguay ,2–2, Spain,1950
+71,Brazil ,7–1, Sweden,1950
+72,Brazil ,6–1, Spain,1950
+73,Uruguay ,3–2, Sweden,1950
+74,Sweden ,3–1, Spain,1950
+75,Uruguay ,2–1, Brazil,1950
+76,Brazil ,5–0, Mexico,1954
+77,Yugoslavia ,1–0, France,1954
+78,Brazil ,1–1 (a.e.t.), Yugoslavia,1954
+79,France ,3–2, Mexico,1954
+80,West Germany ,4–1, Turkey,1954
+81,Hungary ,9–0, South Korea,1954
+82,Hungary ,8–3, West Germany,1954
+83,Turkey ,7–0, South Korea,1954
+84,West Germany ,7–2, Turkey,1954
+85,Uruguay ,2–0, Czechoslovakia,1954
+86,Austria ,1–0, Scotland,1954
+87,Uruguay ,7–0, Scotland,1954
+88,Austria ,5–0, Czechoslovakia,1954
+89,Switzerland ,2–1, Italy,1954
+90,England ,4–4 (a.e.t.), Belgium,1954
+91,Italy ,4–1, Belgium,1954
+92,England ,2–0,  Switzerland,1954
+93,Switzerland ,4–1, Italy,1954
+94,Austria ,7–5,  Switzerland,1954
+95,Uruguay ,4–2, England,1954
+96,West Germany ,2–0, Yugoslavia,1954
+97,Hungary ,4–2, Brazil,1954
+98,West Germany ,6–1, Austria,1954
+99,Hungary ,4–2 (a.e.t.), Uruguay,1954
+100,Austria ,3–1, Uruguay,1954
+101,West Germany ,3–2, Hungary,1954
+102,Argentina ,1–3, West Germany,1958
+103,Northern Ireland ,1–0, Czechoslovakia,1958
+104,West Germany ,2–2, Czechoslovakia,1958
+105,Argentina ,3–1, Northern Ireland,1958
+106,West Germany ,2–2, Northern Ireland,1958
+107,Czechoslovakia ,6–1, Argentina,1958
+108,Northern Ireland ,2–1 (a.e.t.), Czechoslovakia,1958
+109,France ,7–3, Paraguay,1958
+110,Yugoslavia ,1–1, Scotland,1958
+111,Yugoslavia ,3–2, France,1958
+112,Paraguay ,3–2, Scotland,1958
+113,France ,2–1, Scotland,1958
+114,Paraguay ,3–3, Yugoslavia,1958
+115,Sweden ,3–0, Mexico,1958
+116,Hungary ,1–1, Wales,1958
+117,Mexico ,1–1, Wales,1958
+118,Sweden ,2–1, Hungary,1958
+119,Sweden ,0–0, Wales,1958
+120,Hungary ,4–0, Mexico,1958
+121,Wales ,2–1, Hungary,1958
+122,Brazil ,3–0, Austria,1958
+123,Soviet Union ,2–2, England,1958
+124,Brazil ,0–0, England,1958
+125,Soviet Union ,2–0, Austria,1958
+126,England ,2–2, Austria,1958
+127,Brazil ,2–0, Soviet Union,1958
+128,Soviet Union ,1–0, England,1958
+129,Brazil ,1–0, Wales,1958
+130,France ,4–0, Northern Ireland,1958
+131,Sweden ,2–0, Soviet Union,1958
+132,West Germany ,1–0, Yugoslavia,1958
+133,Brazil ,5–2, France,1958
+134,Sweden ,3–1, West Germany,1958
+135,France ,6–3, West Germany,1958
+136,Brazil ,5–2, Sweden,1958
+137,Uruguay ,2–1, Colombia,1962
+138,Soviet Union ,2–0, Yugoslavia,1962
+139,Yugoslavia ,3–1, Uruguay,1962
+140,Soviet Union ,4–4, Colombia,1962
+141,Soviet Union ,2–1, Uruguay,1962
+142,Yugoslavia ,5–0, Colombia,1962
+143,Chile ,3–1,  Switzerland,1962
+144,West Germany ,0–0, Italy,1962
+145,Chile ,2–0, Italy,1962
+146,West Germany ,2–1,  Switzerland,1962
+147,West Germany ,2–0, Chile,1962
+148,Italy ,3–0,  Switzerland,1962
+149,Brazil ,2–0, Mexico,1962
+150,Czechoslovakia ,1–0, Spain,1962
+151,Brazil ,0–0, Czechoslovakia,1962
+152,Spain ,1–0, Mexico,1962
+153,Brazil ,2–1, Spain,1962
+154,Mexico ,3–1, Czechoslovakia,1962
+155,Argentina ,1–0, Bulgaria,1962
+156,Hungary ,2–1, England,1962
+157,England ,3–1, Argentina,1962
+158,Hungary ,6–1, Bulgaria,1962
+159,Hungary ,0–0, Argentina,1962
+160,England ,0–0, Bulgaria,1962
+161,Chile ,2–1, Soviet Union,1962
+162,Czechoslovakia ,1–0, Hungary,1962
+163,Brazil ,3–1, England,1962
+164,Yugoslavia ,1–0, West Germany,1962
+165,Czechoslovakia ,3–1, Yugoslavia,1962
+166,Brazil ,4–2, Chile,1962
+167,Chile ,1–0, Yugoslavia,1962
+168,Brazil ,3–1, Czechoslovakia,1962
+169,England ,0–0, Uruguay,1966
+170,France ,1–1, Mexico,1966
+171,Uruguay ,2–1, France,1966
+172,England ,2–0, Mexico,1966
+173,Mexico ,0–0, Uruguay,1966
+174,England ,2–0, France,1966
+175,West Germany ,5–0,  Switzerland,1966
+176,Argentina ,2–1, Spain,1966
+177,Spain ,2–1,  Switzerland,1966
+178,Argentina ,0–0, West Germany,1966
+179,Argentina ,2–0,  Switzerland,1966
+180,West Germany ,2–1, Spain,1966
+181,Brazil ,2–0, Bulgaria,1966
+182,Portugal ,3–1, Hungary,1966
+183,Hungary ,3–1, Brazil,1966
+184,Portugal ,3–0, Bulgaria,1966
+185,Portugal ,3–1, Brazil,1966
+186,Hungary ,3–1, Bulgaria,1966
+187,Soviet Union ,3–0, North Korea,1966
+188,Italy ,2–0, Chile,1966
+189,Chile ,1–1, North Korea,1966
+190,Soviet Union ,1–0, Italy,1966
+191,North Korea ,1–0, Italy,1966
+192,Soviet Union ,2–1, Chile,1966
+193,England ,1–0, Argentina,1966
+194,West Germany ,4–0, Uruguay,1966
+195,Soviet Union ,2–1, Hungary,1966
+196,Portugal ,5–3, North Korea,1966
+197,West Germany ,2–1, Soviet Union,1966
+198,England ,2–1, Portugal,1966
+199,Portugal ,2–1, Soviet Union,1966
+200,England ,4–2 (a.e.t.), West Germany,1966
+201,Mexico ,0–0, Soviet Union,1970
+202,Belgium ,3–0, El Salvador,1970
+203,Soviet Union ,4–1, Belgium,1970
+204,Mexico ,4–0, El Salvador,1970
+205,Soviet Union ,2–0, El Salvador,1970
+206,Mexico ,1–0, Belgium,1970
+207,Uruguay ,2–0, Israel,1970
+208,Italy ,1–0, Sweden,1970
+209,Uruguay ,0–0, Italy,1970
+210,Sweden ,1–1, Israel,1970
+211,Sweden ,1–0, Uruguay,1970
+212,Italy ,0–0, Israel,1970
+213,England ,1–0, Romania,1970
+214,Brazil ,4–1, Czechoslovakia,1970
+215,Romania ,2–1, Czechoslovakia,1970
+216,Brazil ,1–0, England,1970
+217,Brazil ,3–2, Romania,1970
+218,England ,1–0, Czechoslovakia,1970
+219,Peru ,3–2, Bulgaria,1970
+220,West Germany ,2–1, Morocco,1970
+221,Peru ,3–0, Morocco,1970
+222,West Germany ,5–2, Bulgaria,1970
+223,West Germany ,3–1, Peru,1970
+224,Bulgaria ,1–1, Morocco,1970
+225,Soviet Union ,0–1 (a.e.t.), Uruguay,1970
+226,Italy ,4–1, Mexico,1970
+227,Brazil ,4–2, Peru,1970
+228,West Germany ,3–2 (a.e.t.), England,1970
+229,Uruguay ,1–3, Brazil,1970
+230,Italy ,4–3 (a.e.t.), West Germany,1970
+231,Uruguay ,0–1, West Germany,1970
+232,Brazil ,4–1, Italy,1970
+233,West Germany ,1–0, Chile,1974
+234,East Germany ,2–0, Australia,1974
+235,Australia ,0–3, West Germany,1974
+236,Chile ,1–1, East Germany,1974
+237,Australia ,0–0, Chile,1974
+238,East Germany ,1–0, West Germany,1974
+239,Brazil ,0–0, Yugoslavia,1974
+240,Zaire ,0–2, Scotland,1974
+241,Yugoslavia ,9–0, Zaire,1974
+242,Scotland ,0–0, Brazil,1974
+243,Scotland ,1–1, Yugoslavia,1974
+244,Zaire ,0–3, Brazil,1974
+245,Uruguay ,0–2, Netherlands,1974
+246,Sweden ,0–0, Bulgaria,1974
+247,Bulgaria ,1–1, Uruguay,1974
+248,Netherlands ,0–0, Sweden,1974
+249,Bulgaria ,1–4, Netherlands,1974
+250,Sweden ,3–0, Uruguay,1974
+251,Italy ,3–1, Haiti,1974
+252,Poland ,3–2, Argentina,1974
+253,Argentina ,1–1, Italy,1974
+254,Haiti ,0–7, Poland,1974
+255,Argentina ,4–1, Haiti,1974
+256,Poland ,2–1, Italy,1974
+257,Netherlands ,4–0, Argentina,1974
+258,Brazil ,1–0, East Germany,1974
+259,Argentina ,1–2, Brazil,1974
+260,East Germany ,0–2, Netherlands,1974
+261,Argentina ,1–1, East Germany,1974
+262,Netherlands ,2–0, Brazil,1974
+263,Yugoslavia ,0–2, West Germany,1974
+264,Sweden ,0–1, Poland,1974
+265,Poland ,2–1, Yugoslavia,1974
+266,West Germany ,4–2, Sweden,1974
+267,Poland ,0–1, West Germany,1974
+268,Sweden ,2–1, Yugoslavia,1974
+269,Brazil ,0–1, Poland,1974
+270,Netherlands ,1–2, West Germany,1974
+271,Italy ,2–1, France,1978
+272,Argentina ,2–1, Hungary,1978
+273,Italy ,3–1, Hungary,1978
+274,Argentina ,2–1, France,1978
+275,France ,3–1, Hungary,1978
+276,Argentina ,0–1, Italy,1978
+277,West Germany ,0–0, Poland,1978
+278,Tunisia ,3–1, Mexico,1978
+279,West Germany ,6–0, Mexico,1978
+280,Poland ,1–0, Tunisia,1978
+281,West Germany ,0–0, Tunisia,1978
+282,Poland ,3–1, Mexico,1978
+283,Austria ,2–1, Spain,1978
+284,Brazil ,1–1, Sweden,1978
+285,Austria ,1–0, Sweden,1978
+286,Brazil ,0–0, Spain,1978
+287,Spain ,1–0, Sweden,1978
+288,Brazil ,1–0, Austria,1978
+289,Peru ,3–1, Scotland,1978
+290,Netherlands ,3–0, Iran,1978
+291,Scotland ,1–1, Iran,1978
+292,Netherlands ,0–0, Peru,1978
+293,Peru ,4–1, Iran,1978
+294,Scotland ,3–2, Netherlands,1978
+295,Austria ,1–5, Netherlands,1978
+296,Italy ,0–0, West Germany,1978
+297,Netherlands ,2–2, West Germany,1978
+298,Italy ,1–0, Austria,1978
+299,Austria ,3–2, West Germany,1978
+300,Italy ,1–2, Netherlands,1978
+301,Brazil ,3–0, Peru,1978
+302,Argentina ,2–0, Poland,1978
+303,Peru ,0–1, Poland,1978
+304,Argentina ,0–0, Brazil,1978
+305,Brazil ,3–1, Poland,1978
+306,Argentina ,6–0, Peru,1978
+307,Brazil ,2–1, Italy,1978
+308,Argentina ,3–1 (a.e.t.), Netherlands,1978
+309,Italy ,0–0, Poland,1982
+310,Peru ,0–0, Cameroon,1982
+311,Italy ,1–1, Peru,1982
+312,Poland ,0–0, Cameroon,1982
+313,Poland ,5–1, Peru,1982
+314,Italy ,1–1, Cameroon,1982
+315,West Germany ,1–2, Algeria,1982
+316,Chile ,0–1, Austria,1982
+317,West Germany ,4–1, Chile,1982
+318,Algeria ,0–2, Austria,1982
+319,Algeria ,3–2, Chile,1982
+320,West Germany ,1–0, Austria,1982
+321,Argentina ,0–1, Belgium,1982
+322,Hungary ,10–1, El Salvador,1982
+323,Argentina ,4–1, Hungary,1982
+324,Belgium ,1–0, El Salvador,1982
+325,Belgium ,1–1, Hungary,1982
+326,Argentina ,2–0, El Salvador,1982
+327,England ,3–1, France,1982
+328,Czechoslovakia ,1–1, Kuwait,1982
+329,England ,2–0, Czechoslovakia,1982
+330,France ,4–1, Kuwait,1982
+331,France ,1–1, Czechoslovakia,1982
+332,England ,1–0, Kuwait,1982
+333,Spain ,1–1, Honduras,1982
+334,Yugoslavia ,0–0, Northern Ireland,1982
+335,Spain ,2–1, Yugoslavia,1982
+336,Honduras ,1–1, Northern Ireland,1982
+337,Honduras ,0–1, Yugoslavia,1982
+338,Spain ,0–1, Northern Ireland,1982
+339,Brazil ,2–1, Soviet Union,1982
+340,Scotland ,5–2, New Zealand,1982
+341,Brazil ,4–1, Scotland,1982
+342,Soviet Union ,3–0, New Zealand,1982
+343,Soviet Union ,2–2, Scotland,1982
+344,Brazil ,4–0, New Zealand,1982
+345,Poland ,3–0, Belgium,1982
+346,Belgium ,0–1, Soviet Union,1982
+347,Soviet Union ,0–0, Poland,1982
+348,West Germany ,0–0, England,1982
+349,West Germany ,2–1, Spain,1982
+350,Spain ,0–0, England,1982
+351,Italy ,2–1, Argentina,1982
+352,Argentina ,1–3, Brazil,1982
+353,Italy ,3–2, Brazil,1982
+354,Austria ,0–1, France,1982
+355,Austria ,2–2, Northern Ireland,1982
+356,France ,4–1, Northern Ireland,1982
+357,Poland ,0–2, Italy,1982
+358,West Germany ,3–3 (a.e.t.), France,1982
+359,Poland ,3–2, France,1982
+360,Italy ,3–1, West Germany,1982
+361,Bulgaria ,1–1, Italy,1986
+362,Argentina ,3–1, South Korea,1986
+363,Italy ,1–1, Argentina,1986
+364,South Korea ,1–1, Bulgaria,1986
+365,South Korea ,2–3, Italy,1986
+366,Argentina ,2–0, Bulgaria,1986
+367,Belgium ,1–2, Mexico,1986
+368,Paraguay ,1–0, Iraq,1986
+369,Mexico ,1–1, Paraguay,1986
+370,Iraq ,1–2, Belgium,1986
+371,Paraguay ,2–2, Belgium,1986
+372,Iraq ,0–1, Mexico,1986
+373,Canada ,0–1, France,1986
+374,Soviet Union ,6–0, Hungary,1986
+375,France ,1–1, Soviet Union,1986
+376,Hungary ,2–0, Canada,1986
+377,Hungary ,0–3, France,1986
+378,Soviet Union ,2–0, Canada,1986
+379,Spain ,0–1, Brazil,1986
+380,Algeria ,1–1, Northern Ireland,1986
+381,Brazil ,1–0, Algeria,1986
+382,Northern Ireland ,1–2, Spain,1986
+383,Northern Ireland ,0–3, Brazil,1986
+384,Algeria ,0–3, Spain,1986
+385,Uruguay ,1–1, West Germany,1986
+386,Scotland ,0–1, Denmark,1986
+387,West Germany ,2–1, Scotland,1986
+388,Denmark ,6–1, Uruguay,1986
+389,Denmark ,2–0, West Germany,1986
+390,Scotland ,0–0, Uruguay,1986
+391,Morocco ,0–0, Poland,1986
+392,Portugal ,1–0, England,1986
+393,England ,0–0, Morocco,1986
+394,Poland ,1–0, Portugal,1986
+395,England ,3–0, Poland,1986
+396,Portugal ,1–3, Morocco,1986
+397,Mexico ,2–0, Bulgaria,1986
+398,Soviet Union ,3–4 (a.e.t.), Belgium,1986
+399,Brazil ,4–0, Poland,1986
+400,Argentina ,1–0, Uruguay,1986
+401,Italy ,0–2, France,1986
+402,Morocco ,0–1, West Germany,1986
+403,England ,3–0, Paraguay,1986
+404,Denmark ,1–5, Spain,1986
+405,Brazil ,1–1 (a.e.t.), France,1986
+406,West Germany ,0–0 (a.e.t.), Mexico,1986
+407,Argentina ,2–1, England,1986
+408,Spain ,1–1 (a.e.t.), Belgium,1986
+409,France ,0–2, West Germany,1986
+410,Argentina ,2–0, Belgium,1986
+411,Belgium ,2–4 (a.e.t.), France,1986
+412,Argentina ,3–2, West Germany,1986
+413,Cameroon ,2–1 (a.e.t.), Colombia,1990
+414,Czechoslovakia ,4–1, Costa Rica,1990
+415,Brazil ,0–1, Argentina,1990
+416,West Germany ,2–1, Netherlands,1990
+417,Republic of Ireland ,0–0 (a.e.t.), Romania,1990
+418,Italy ,2–0, Uruguay,1990
+419,Spain ,1–2 (a.e.t.), Yugoslavia,1990
+420,England ,1–0 (a.e.t.), Belgium,1990
+421,Argentina ,0–0 (a.e.t.), Yugoslavia,1990
+422,Republic of Ireland ,0–1, Italy,1990
+423,Czechoslovakia ,0–1, West Germany,1990
+424,Cameroon ,2–3 (a.e.t.), England,1990
+425,Argentina ,1–1 (a.e.t.), Italy,1990
+426,West Germany ,1–1 (a.e.t.), England,1990
+427,Italy ,2–1, England,1990
+428,West Germany ,1–0, Argentina,1990
+429,United States ,1–1,  Switzerland,1994
+430,Colombia ,1–3, Romania,1994
+431,Romania ,1–4,  Switzerland,1994
+432,United States ,2–1, Colombia,1994
+433,Switzerland ,0–2, Colombia,1994
+434,United States ,0–1, Romania,1994
+435,Cameroon ,2–2, Sweden,1994
+436,Brazil ,2–0, Russia,1994
+437,Brazil ,3–0, Cameroon,1994
+438,Sweden ,3–1, Russia,1994
+439,Russia ,6–1, Cameroon,1994
+440,Brazil ,1–1, Sweden,1994
+441,Germany ,1–0, Bolivia,1994
+442,Spain ,2–2, South Korea,1994
+443,Germany ,1–1, Spain,1994
+444,South Korea ,0–0, Bolivia,1994
+445,Bolivia ,1–3, Spain,1994
+446,Germany ,3–2, South Korea,1994
+447,Argentina ,4–0, Greece,1994
+448,Nigeria ,3–0, Bulgaria,1994
+449,Argentina ,2–1, Nigeria,1994
+450,Bulgaria ,4–0, Greece,1994
+451,Argentina ,0–2, Bulgaria,1994
+452,Greece ,0–2, Nigeria,1994
+453,Italy ,0–1, Republic of Ireland,1994
+454,Norway ,1–0, Mexico,1994
+455,Italy ,1–0, Norway,1994
+456,Mexico ,2–1, Republic of Ireland,1994
+457,Italy ,1–1, Mexico,1994
+458,Republic of Ireland ,0–0, Norway,1994
+459,Belgium ,1–0, Morocco,1994
+460,Netherlands ,2–1, Saudi Arabia,1994
+461,Belgium ,1–0, Netherlands,1994
+462,Saudi Arabia ,2–1, Morocco,1994
+463,Belgium ,0–1, Saudi Arabia,1994
+464,Morocco ,1–2, Netherlands,1994
+465,Germany ,3–2, Belgium,1994
+466,Spain ,3–0,  Switzerland,1994
+467,Saudi Arabia ,1–3, Sweden,1994
+468,Romania ,3–2, Argentina,1994
+469,Netherlands ,2–0, Republic of Ireland,1994
+470,Brazil ,1–0, United States,1994
+471,Nigeria ,1–2 (a.e.t.), Italy,1994
+472,Mexico ,1–1 (a.e.t.), Bulgaria,1994
+473,Italy ,2–1, Spain,1994
+474,Netherlands ,2–3, Brazil,1994
+475,Bulgaria ,2–1, Germany,1994
+476,Romania ,2–2 (a.e.t.), Sweden,1994
+477,Bulgaria ,1–2, Italy,1994
+478,Sweden ,0–1, Brazil,1994
+479,Sweden ,4–0, Bulgaria,1994
+480,Brazil ,0–0 (a.e.t.), Italy,1994
+481,Brazil ,2–1, Scotland,1998
+482,Morocco ,2–2, Norway,1998
+483,Scotland ,1–1, Norway,1998
+484,Brazil ,3–0, Morocco,1998
+485,Scotland ,0–3, Morocco,1998
+486,Brazil ,1–2, Norway,1998
+487,Italy ,2–2, Chile,1998
+488,Cameroon ,1–1, Austria,1998
+489,Chile ,1–1, Austria,1998
+490,Italy ,3–0, Cameroon,1998
+491,Italy ,2–1, Austria,1998
+492,Chile ,1–1, Cameroon,1998
+493,Saudi Arabia ,0–1, Denmark,1998
+494,France ,3–0, South Africa,1998
+495,South Africa ,1–1, Denmark,1998
+496,France ,4–0, Saudi Arabia,1998
+497,France ,2–1, Denmark,1998
+498,South Africa ,2–2, Saudi Arabia,1998
+499,Paraguay ,0–0, Bulgaria,1998
+500,Spain ,2–3, Nigeria,1998
+501,Nigeria ,1–0, Bulgaria,1998
+502,Spain ,0–0, Paraguay,1998
+503,Nigeria ,1–3, Paraguay,1998
+504,Spain ,6–1, Bulgaria,1998
+505,South Korea ,1–3, Mexico,1998
+506,Netherlands ,0–0, Belgium,1998
+507,Belgium ,2–2, Mexico,1998
+508,Netherlands ,5–0, South Korea,1998
+509,Netherlands ,2–2, Mexico,1998
+510,Belgium ,1–1, South Korea,1998
+511,FR Yugoslavia ,1–0, Iran,1998
+512,Germany ,2–0, United States,1998
+513,Germany ,2–2, FR Yugoslavia,1998
+514,United States ,1–2, Iran,1998
+515,Germany ,2–0, Iran,1998
+516,United States ,0–1, FR Yugoslavia,1998
+517,England ,2–0, Tunisia,1998
+518,Romania ,1–0, Colombia,1998
+519,Colombia ,1–0, Tunisia,1998
+520,Romania ,2–1, England,1998
+521,Colombia ,0–2, England,1998
+522,Romania ,1–1, Tunisia,1998
+523,Argentina ,1–0, Japan,1998
+524,Jamaica ,1–3, Croatia,1998
+525,Japan ,0–1, Croatia,1998
+526,Argentina ,5–0, Jamaica,1998
+527,Argentina ,1–0, Croatia,1998
+528,Japan ,1–2, Jamaica,1998
+529,Italy ,1–0, Norway,1998
+530,Brazil ,4–1, Chile,1998
+531,France ,1–0 (a.e.t./g.g.), Paraguay,1998
+532,Nigeria ,1–4, Denmark,1998
+533,Germany ,2–1, Mexico,1998
+534,Netherlands ,2–1, FR Yugoslavia,1998
+535,Romania ,0–1, Croatia,1998
+536,Argentina ,2–2 (a.e.t.), England,1998
+537,Italy ,0–0 (a.e.t.), France,1998
+538,Brazil ,3–2, Denmark,1998
+539,Netherlands ,2–1, Argentina,1998
+540,Germany ,0–3, Croatia,1998
+541,Brazil ,1–1 (a.e.t.), Netherlands,1998
+542,France ,2–1, Croatia,1998
+543,Netherlands ,1–2, Croatia,1998
+544,Brazil ,0–3, France,1998
+545,France ,0–1, Senegal,2002
+546,Uruguay ,1–2, Denmark,2002
+547,Denmark ,1–1, Senegal,2002
+548,France ,0–0, Uruguay,2002
+549,Denmark ,2–0, France,2002
+550,Senegal ,3–3, Uruguay,2002
+551,Paraguay ,2–2, South Africa,2002
+552,Spain ,3–1, Slovenia,2002
+553,Spain ,3–1, Paraguay,2002
+554,South Africa ,1–0, Slovenia,2002
+555,South Africa ,2–3, Spain,2002
+556,Slovenia ,1–3, Paraguay,2002
+557,Brazil ,2–1, Turkey,2002
+558,China ,0–2, Costa Rica,2002
+559,Brazil ,4–0, China,2002
+560,Costa Rica ,1–1, Turkey,2002
+561,Costa Rica ,2–5, Brazil,2002
+562,Turkey ,3–0, China,2002
+563,South Korea ,2–0, Poland,2002
+564,United States ,3–2, Portugal,2002
+565,South Korea ,1–1, United States,2002
+566,Portugal ,4–0, Poland,2002
+567,Portugal ,0–1, South Korea,2002
+568,Poland ,3–1, United States,2002
+569,Republic of Ireland ,1–1, Cameroon,2002
+570,Germany ,8–0, Saudi Arabia,2002
+571,Germany ,1–1, Republic of Ireland,2002
+572,Cameroon ,1–0, Saudi Arabia,2002
+573,Cameroon ,0–2, Germany,2002
+574,Saudi Arabia ,0–3, Republic of Ireland,2002
+575,Argentina ,1–0, Nigeria,2002
+576,England ,1–1, Sweden,2002
+577,Sweden ,2–1, Nigeria,2002
+578,Argentina ,0–1, England,2002
+579,Sweden ,1–1, Argentina,2002
+580,Nigeria ,0–0, England,2002
+581,Croatia ,0–1, Mexico,2002
+582,Italy ,2–0, Ecuador,2002
+583,Italy ,1–2, Croatia,2002
+584,Mexico ,2–1, Ecuador,2002
+585,Mexico ,1–1, Italy,2002
+586,Ecuador ,1–0, Croatia,2002
+587,Japan ,2–2, Belgium,2002
+588,Russia ,2–0, Tunisia,2002
+589,Japan ,1–0, Russia,2002
+590,Tunisia ,1–1, Belgium,2002
+591,Tunisia ,0–2, Japan,2002
+592,Belgium ,3–2, Russia,2002
+593,Germany ,1–0, Paraguay,2002
+594,Denmark ,0–3, England,2002
+595,Sweden ,1–2 (a.e.t./g.g.), Senegal,2002
+596,Spain ,1–1 (a.e.t.), Republic of Ireland,2002
+597,Mexico ,0–2, United States,2002
+598,Brazil ,2–0, Belgium,2002
+599,Japan ,0–1, Turkey,2002
+600,South Korea ,2–1 (a.e.t./g.g.), Italy,2002
+601,England ,1–2, Brazil,2002
+602,Germany ,1–0, United States,2002
+603,Spain ,0–0 (a.e.t.), South Korea,2002
+604,Senegal ,0–1 (a.e.t./g.g.), Turkey,2002
+605,Germany ,1–0, South Korea,2002
+606,Brazil ,1–0, Turkey,2002
+607,South Korea ,2–3, Turkey,2002
+608,Germany ,0–2, Brazil,2002
+609,Germany ,4–2, Costa Rica,2006
+610,Poland ,0–2, Ecuador,2006
+611,Germany ,1–0, Poland,2006
+612,Ecuador ,3–0, Costa Rica,2006
+613,Ecuador ,0–3, Germany,2006
+614,Costa Rica ,1–2, Poland,2006
+615,England ,1–0, Paraguay,2006
+616,Trinidad and Tobago ,0–0, Sweden,2006
+617,England ,2–0, Trinidad and Tobago,2006
+618,Sweden ,1–0, Paraguay,2006
+619,Sweden ,2–2, England,2006
+620,Paraguay ,2–0, Trinidad and Tobago,2006
+621,Argentina ,2–1, Ivory Coast,2006
+622,Serbia and Montenegro ,0–1, Netherlands,2006
+623,Argentina ,6–0, Serbia and Montenegro,2006
+624,Netherlands ,2–1, Ivory Coast,2006
+625,Netherlands ,0–0, Argentina,2006
+626,Ivory Coast ,3–2, Serbia and Montenegro,2006
+627,Mexico ,3–1, Iran,2006
+628,Angola ,0–1, Portugal,2006
+629,Mexico ,0–0, Angola,2006
+630,Portugal ,2–0, Iran,2006
+631,Portugal ,2–1, Mexico,2006
+632,Iran ,1–1, Angola,2006
+633,United States ,0–3, Czech Republic,2006
+634,Italy ,2–0, Ghana,2006
+635,Czech Republic ,0–2, Ghana,2006
+636,Italy ,1–1, United States,2006
+637,Czech Republic ,0–2, Italy,2006
+638,Ghana ,2–1, United States,2006
+639,Australia ,3–1, Japan,2006
+640,Brazil ,1–0, Croatia,2006
+641,Japan ,0–0, Croatia,2006
+642,Brazil ,2–0, Australia,2006
+643,Japan ,1–4, Brazil,2006
+644,Croatia ,2–2, Australia,2006
+645,South Korea ,2–1, Togo,2006
+646,France ,0–0,  Switzerland,2006
+647,France ,1–1, South Korea,2006
+648,Togo ,0–2,  Switzerland,2006
+649,Togo ,0–2, France,2006
+650,Switzerland ,2–0, South Korea,2006
+651,Spain ,4–0, Ukraine,2006
+652,Tunisia ,2–2, Saudi Arabia,2006
+653,Saudi Arabia ,0–4, Ukraine,2006
+654,Spain ,3–1, Tunisia,2006
+655,Saudi Arabia ,0–1, Spain,2006
+656,Ukraine ,1–0, Tunisia,2006
+657,Germany ,2–0, Sweden,2006
+658,Argentina ,2–1 (a.e.t.), Mexico,2006
+659,England ,1–0, Ecuador,2006
+660,Portugal ,1–0, Netherlands,2006
+661,Italy ,1–0, Australia,2006
+662,Switzerland ,0–0 (a.e.t.), Ukraine,2006
+663,Brazil ,3–0, Ghana,2006
+664,Spain ,1–3, France,2006
+665,Germany ,1–1 (a.e.t.), Argentina,2006
+666,Italy ,3–0, Ukraine,2006
+667,England ,0–0 (a.e.t.), Portugal,2006
+668,Brazil ,0–1, France,2006
+669,Germany ,0–2 (a.e.t.), Italy,2006
+670,Portugal ,0–1, France,2006
+671,Germany ,3–1, Portugal,2006
+672,Italy ,1–1 (a.e.t.), France,2006
+673,South Africa ,1–1, Mexico,2010
+674,Uruguay ,0–0, France,2010
+675,South Africa ,0–3, Uruguay,2010
+676,France ,0–2, Mexico,2010
+677,Mexico ,0–1, Uruguay,2010
+678,France ,1–2, South Africa,2010
+679,South Korea ,2–0, Greece,2010
+680,Argentina ,1–0, Nigeria,2010
+681,Argentina ,4–1, South Korea,2010
+682,Greece ,2–1, Nigeria,2010
+683,Nigeria ,2–2, South Korea,2010
+684,Greece ,0–2, Argentina,2010
+685,England ,1–1, United States,2010
+686,Algeria ,0–1, Slovenia,2010
+687,Slovenia ,2–2, United States,2010
+688,England ,0–0, Algeria,2010
+689,Slovenia ,0–1, England,2010
+690,United States ,1–0, Algeria,2010
+691,Serbia ,0–1, Ghana,2010
+692,Germany ,4–0, Australia,2010
+693,Germany ,0–1, Serbia,2010
+694,Ghana ,1–1, Australia,2010
+695,Ghana ,0–1, Germany,2010
+696,Australia ,2–1, Serbia,2010
+697,Netherlands ,2–0, Denmark,2010
+698,Japan ,1–0, Cameroon,2010
+699,Netherlands ,1–0, Japan,2010
+700,Cameroon ,1–2, Denmark,2010
+701,Denmark ,1–3, Japan,2010
+702,Cameroon ,1–2, Netherlands,2010
+703,Italy ,1–1, Paraguay,2010
+704,New Zealand ,1–1, Slovakia,2010
+705,Slovakia ,0–2, Paraguay,2010
+706,Italy ,1–1, New Zealand,2010
+707,Slovakia ,3–2, Italy,2010
+708,Paraguay ,0–0, New Zealand,2010
+709,Ivory Coast ,0–0, Portugal,2010
+710,Brazil ,2–1, North Korea,2010
+711,Brazil ,3–1, Ivory Coast,2010
+712,Portugal ,7–0, North Korea,2010
+713,Portugal ,0–0, Brazil,2010
+714,North Korea ,0–3, Ivory Coast,2010
+715,Honduras ,0–1, Chile,2010
+716,Spain ,0–1,  Switzerland,2010
+717,Chile ,1–0,  Switzerland,2010
+718,Spain ,2–0, Honduras,2010
+719,Chile ,1–2, Spain,2010
+720,Switzerland ,0–0, Honduras,2010
+721,Uruguay ,2–1, South Korea,2010
+722,United States ,1–2 (a.e.t.), Ghana,2010
+723,Germany ,4–1, England,2010
+724,Argentina ,3–1, Mexico,2010
+725,Netherlands ,2–1, Slovakia,2010
+726,Brazil ,3–0, Chile,2010
+727,Paraguay ,0–0 (a.e.t.), Japan,2010
+728,Spain ,1–0, Portugal,2010
+729,Netherlands ,2–1, Brazil,2010
+730,Uruguay ,1–1 (a.e.t.), Ghana,2010
+731,Argentina ,0–4, Germany,2010
+732,Paraguay ,0–1, Spain,2010
+733,Uruguay ,2–3, Netherlands,2010
+734,Germany ,0–1, Spain,2010
+735,Uruguay ,2–3, Germany,2010
+736,Netherlands ,0–1 (a.e.t.), Spain,2010
+737,Brazil ,3–1, Croatia,2014
+738,Mexico ,1–0, Cameroon,2014
+739,Brazil ,0–0, Mexico,2014
+740,Cameroon ,0–4, Croatia,2014
+741,Cameroon ,1–4, Brazil,2014
+742,Croatia ,1–3, Mexico,2014
+743,Spain ,1–5, Netherlands,2014
+744,Chile ,3–1, Australia,2014
+745,Australia ,2–3, Netherlands,2014
+746,Spain ,0–2, Chile,2014
+747,Australia ,0–3, Spain,2014
+748,Netherlands ,2–0, Chile,2014
+749,Colombia ,3–0, Greece,2014
+750,Ivory Coast ,2–1, Japan,2014
+751,Colombia ,2–1, Ivory Coast,2014
+752,Japan ,0–0, Greece,2014
+753,Japan ,1–4, Colombia,2014
+754,Greece ,2–1, Ivory Coast,2014
+755,Uruguay ,1–3, Costa Rica,2014
+756,England ,1–2, Italy,2014
+757,Uruguay ,2–1, England,2014
+758,Italy ,0–1, Costa Rica,2014
+759,Italy ,0–1, Uruguay,2014
+760,Costa Rica ,0–0, England,2014
+761,Switzerland ,2–1, Ecuador,2014
+762,France ,3–0, Honduras,2014
+763,Switzerland ,2–5, France,2014
+764,Honduras ,1–2, Ecuador,2014
+765,Honduras ,0–3,  Switzerland,2014
+766,Ecuador ,0–0, France,2014
+767,Argentina ,2–1, Bosnia and Herzegovina,2014
+768,Iran ,0–0, Nigeria,2014
+769,Argentina ,1–0, Iran,2014
+770,Nigeria ,1–0, Bosnia and Herzegovina,2014
+771,Nigeria ,2–3, Argentina,2014
+772,Bosnia and Herzegovina ,3–1, Iran,2014
+773,Germany ,4–0, Portugal,2014
+774,Ghana ,1–2, United States,2014
+775,Germany ,2–2, Ghana,2014
+776,United States ,2–2, Portugal,2014
+777,United States ,0–1, Germany,2014
+778,Portugal ,2–1, Ghana,2014
+779,Belgium ,2–1, Algeria,2014
+780,Russia ,1–1, South Korea,2014
+781,Belgium ,1–0, Russia,2014
+782,South Korea ,2–4, Algeria,2014
+783,South Korea ,0–1, Belgium,2014
+784,Algeria ,1–1, Russia,2014
+785,Brazil ,1–1 (a.e.t.), Chile,2014
+786,Colombia ,2–0, Uruguay,2014
+787,Netherlands ,2–1, Mexico,2014
+788,Costa Rica ,1–1 (a.e.t.), Greece,2014
+789,France ,2–0, Nigeria,2014
+790,Germany ,2–1 (a.e.t.), Algeria,2014
+791,Argentina ,1–0 (a.e.t.),  Switzerland,2014
+792,Belgium ,2–1 (a.e.t.), United States,2014
+793,France ,0–1, Germany,2014
+794,Brazil ,2–1, Colombia,2014
+795,Argentina ,1–0, Belgium,2014
+796,Netherlands ,0–0 (a.e.t.), Costa Rica,2014
+797,Brazil ,1–7, Germany,2014
+798,Netherlands ,0–0 (a.e.t.), Argentina,2014
+799,Brazil ,0–3, Netherlands,2014
+800,Germany ,1–0 (a.e.t.), Argentina,2014
+801,Russia ,5–0, Saudi Arabia,2018
+802,Egypt ,0–1, Uruguay,2018
+803,Russia ,3–1, Egypt,2018
+804,Uruguay ,1–0, Saudi Arabia,2018
+805,Uruguay ,3–0, Russia,2018
+806,Saudi Arabia ,2–1, Egypt,2018
+807,Morocco ,0–1, Iran,2018
+808,Portugal ,3–3, Spain,2018
+809,Portugal ,1–0, Morocco,2018
+810,Iran ,0–1, Spain,2018
+811,Iran ,1–1, Portugal,2018
+812,Spain ,2–2, Morocco,2018
+813,France ,2–1, Australia,2018
+814,Peru ,0–1, Denmark,2018
+815,Denmark ,1–1, Australia,2018
+816,France ,1–0, Peru,2018
+817,Denmark ,0–0, France,2018
+818,Australia ,0–2, Peru,2018
+819,Argentina ,1–1, Iceland,2018
+820,Croatia ,2–0, Nigeria,2018
+821,Argentina ,0–3, Croatia,2018
+822,Nigeria ,2–0, Iceland,2018
+823,Nigeria ,1–2, Argentina,2018
+824,Iceland ,1–2, Croatia,2018
+825,Costa Rica ,0–1, Serbia,2018
+826,Brazil ,1–1,  Switzerland,2018
+827,Brazil ,2–0, Costa Rica,2018
+828,Serbia ,1–2,  Switzerland,2018
+829,Serbia ,0–2, Brazil,2018
+830,Switzerland ,2–2, Costa Rica,2018
+831,Germany ,0–1, Mexico,2018
+832,Sweden ,1–0, South Korea,2018
+833,South Korea ,1–2, Mexico,2018
+834,Germany ,2–1, Sweden,2018
+835,South Korea ,2–0, Germany,2018
+836,Mexico ,0–3, Sweden,2018
+837,Belgium ,3–0, Panama,2018
+838,Tunisia ,1–2, England,2018
+839,Belgium ,5–2, Tunisia,2018
+840,England ,6–1, Panama,2018
+841,England ,0–1, Belgium,2018
+842,Panama ,1–2, Tunisia,2018
+843,Colombia ,1–2, Japan,2018
+844,Poland ,1–2, Senegal,2018
+845,Japan ,2–2, Senegal,2018
+846,Poland ,0–3, Colombia,2018
+847,Japan ,0–1, Poland,2018
+848,Senegal ,0–1, Colombia,2018
+849,France ,4–3, Argentina,2018
+850,Uruguay ,2–1, Portugal,2018
+851,Spain ,1–1 (a.e.t.), Russia,2018
+852,Croatia ,1–1 (a.e.t.), Denmark,2018
+853,Brazil ,2–0, Mexico,2018
+854,Belgium ,3–2, Japan,2018
+855,Sweden ,1–0,  Switzerland,2018
+856,Colombia ,1–1 (a.e.t.), England,2018
+857,Uruguay ,0–2, France,2018
+858,Brazil ,1–2, Belgium,2018
+859,Sweden ,0–2, England,2018
+860,Russia ,2–2 (a.e.t.), Croatia,2018
+861,France ,1–0, Belgium,2018
+862,Croatia ,2–1 (a.e.t.), England,2018
+863,Belgium ,2–0, England,2018
+864,France ,4–2, Croatia,2018
